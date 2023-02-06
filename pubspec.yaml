@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_beep: ^1.0.0
-  image: ^3.2.0
+  image: ">=3.2.0 <5.0.0"
 
 dev_dependencies:
   ffigen: ^6.0.0 # dart run ffigen
